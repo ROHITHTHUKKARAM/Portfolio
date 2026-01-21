@@ -1,4 +1,3 @@
-# Portfolio
 # Ex01 Portfolio
 ## Date:
 
